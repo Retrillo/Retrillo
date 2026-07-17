@@ -61,33 +61,6 @@ I am a highly motivated Full-Stack developer who enjoys bringing ideas to life t
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Retrillo&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Retrillo&theme=tokyonight" alt="GitHub Stats" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Retrillo&theme=tokyonight" alt="Repos Per Language" width="100%" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Retrillo&theme=tokyonight" alt="Productive Time" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 🐍 Code Contribution Snake
 
 <!-- Animated Snake eating contributions. Configured using GitHub Actions (see .github/workflows/snake.yml) -->
