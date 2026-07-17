@@ -83,16 +83,20 @@ I am a highly motivated Full-Stack developer who enjoys bringing ideas to life t
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Retrillo&show_icons=true&theme=radical&hide_border=true&title_color=9C27B0&icon_color=9C27B0" alt="GitHub Stats" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Retrillo&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retrillo&layout=compact&theme=radical&hide_border=true&title_color=9C27B0" alt="Top Languages" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Retrillo&theme=tokyonight" alt="GitHub Stats" width="100%" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" valign="top">
+      <td width="50%" align="center" valign="top">
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Retrillo&theme=radical&hide_border=true&stroke=9C27B0&ring=9C27B0&fire=9C27B0" alt="Streak Stats" width="95%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Retrillo&theme=tokyonight" alt="Repos Per Language" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <br/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Retrillo&theme=tokyonight" alt="Productive Time" width="100%" />
       </td>
     </tr>
   </table>
