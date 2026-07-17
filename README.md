@@ -3,11 +3,6 @@
 -->
 
 <div align="center">
-  <!-- Custom Neon Cyberpunk Banner -->
-  <img src="./banner.png" width="100%" alt="Developer Banner" style="border-radius: 10px;" />
-  
-  <br/><br/>
-  
   <!-- Typing SVG Animated Title -->
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=9C27B0&width=450&center=true&vCenter=true&lines=Hi+there,+I'm+Ivan!+👋;Creative+Full-Stack+Developer;Building+elegant+solutions" alt="Typing SVG" />
