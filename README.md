@@ -8,22 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=9C27B0&width=450&center=true&vCenter=true&lines=Hi+there,+I'm+Ivan!+👋;Creative+Full-Stack+Developer;Building+elegant+solutions" alt="Typing SVG" />
   </h1>
 
-  <!-- Visitor Counter and Socials Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Retrillo&color=9C27B0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-    &nbsp;
-    <a href="https://t.me/your_telegram_username" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    &nbsp;
-    <a href="mailto:strigulinivan@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/your_linkedin" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
 </div>
 
 ---
